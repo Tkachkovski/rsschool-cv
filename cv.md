@@ -25,3 +25,10 @@ public class Multiply
        return a * b;
    }
 }
+```
+## __Educations:__
+* ### __College:__ Minsk College of Entrepreneurship
+## __Languages:__
+* ### __English__ - A1 + (Now I study with a tutor 1 time a week , but in my plans to go to courses "English for IT")
+* ### __Russian__ - Native
+ 
