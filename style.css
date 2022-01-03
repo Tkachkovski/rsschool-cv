@@ -20,7 +20,7 @@ header {
 pre {
     background-color:rgb(150, 197, 197);
     padding-top: 15px;
-    width: 600px;
+    width: 750px;
 
 }
 
@@ -41,9 +41,6 @@ pre {
     padding: 0 20px;
     line-height: 40px;
     color: rgb(17, 17, 17);
-  }
-  .nav-item {
-     
   }
   html {
     scroll-behavior: smooth; 
