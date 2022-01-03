@@ -1,6 +1,6 @@
 body {
     font-family:'Roboto', sans-serif;
-    min-height: 60vh;
+    min-height: 100vh;
     margin: 0; padding: 0;
     background-color: rgb(198, 223, 223);
     font-size: 16px;
@@ -16,6 +16,7 @@ body {
 }
 header {
     background-color: rgb(26, 114, 114);
+    margin-bottom: 20px;
 }
 pre {
     background-color:rgb(150, 197, 197);
@@ -26,6 +27,7 @@ pre {
 .container {
     max-width: 1440px;
     margin: auto;
+
   }
 .nav-list {
     display: flex;
@@ -57,8 +59,7 @@ pre {
   }
   main {
       margin-left:80px;
-     
-  }
+     }
   .main-container {
     display: flex;
     flex-wrap: wrap;
@@ -66,6 +67,7 @@ pre {
   
   .section {
     width: 80%;
+    margin:0 auto;
   }
   @media (max-width: 768px) {
     .section {
@@ -86,3 +88,4 @@ pre {
     padding: 0 20px;
     line-height: 40px;
     color: rgb(17, 17, 17);
+  }
